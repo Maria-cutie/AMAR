@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>I Love You</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; background-color: #fbe7e7; color: #333; }
+    h1 { color: #e91e63; }
+    p { margin: 20px auto; font-size: 18px; max-width: 600px; }
+  </style>
+</head>
+<body>
+  <h1>I Love You, Amar ❤️</h1>
+  <p>Dear [My Eduard],</p>
+  <p>You make my world brighter every day. Thank you for being my everything.</p>
+  <p>I know it's impossible to put into words how much you mean to me. You know naman that you are my everything. Every day is such a blessing for me because every time I am with you, I feel that I am the luckiest person to be loved by someone like you. You make my heart feel at ease.</p>
+  <p>I also wish that you knew how much our little talks and the time we spend together mean to me. I love you always.</p>
+  
+  <h2>Reasons I Love You</h2>
+  <ul>
+    <li>Your amazing smile</li>
+    <li>Your kindness and patience</li>
+    <li>The way you make me laugh</li>
+  </ul>
+
+
+  <p>Always remember that as long as I am alive, you will always have someone who is very proud of you in everything. I love you and I don't want to lose you because my life has been better since the day we've met. Tsaka malapit na exam hehe good luck my bb, don't mind what others are saying about you, remember that you always have my back. Don't forget that I am always here and talk to me when everything gets heavy because I will always be by your side to listen to all your rants. I love you.</p>
+
+  <p>Forever yours,<br>[Maria]</p>
+</body>
+</html>
